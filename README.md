@@ -1,4 +1,4 @@
-# CS114.L21
+# CS114.L21- Machine Learning
 ## Giới thiệu bản thân: 
 * **Họ tên**: Đào Văn Tài
 * **MSSV:** 19522148
